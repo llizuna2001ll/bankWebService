@@ -12,4 +12,7 @@
 <h3>SOAP UI: test de la method conversion pour convertir l'euro en mad</h3>
 <img src="screenWS/conversionmethod.JPG">
 
+<h3>Test client Java</h3>
+<img src="screenWS/javaClient.JPG">
+
 <h4>ISSAM FLADI</h4>
